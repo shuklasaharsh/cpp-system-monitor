@@ -1,6 +1,6 @@
 # C++ Linux System Monitor
 
-![System Monitor](images/monitor.png)
+
 
 
 ## Project for Udacity C++ Nanodegree
